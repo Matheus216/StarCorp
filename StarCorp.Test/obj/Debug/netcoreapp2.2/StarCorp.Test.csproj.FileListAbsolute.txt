@@ -1,0 +1,17 @@
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\StarCorp.Test.deps.json
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\StarCorp.Test.runtimeconfig.json
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\StarCorp.Test.runtimeconfig.dev.json
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\StarCorp.Test.dll
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\StarCorp.Test.pdb
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\StarCorp.Business.dll
+C:\repos\StarCorp.Test\bin\Debug\netcoreapp2.2\StarCorp.Business.pdb
+C:\repos\StarCorp.Test\obj\Debug\netcoreapp2.2\StarCorp.Test.csprojAssemblyReference.cache
+C:\repos\StarCorp.Test\obj\Debug\netcoreapp2.2\StarCorp.Test.csproj.CoreCompileInputs.cache
+C:\repos\StarCorp.Test\obj\Debug\netcoreapp2.2\StarCorp.Test.AssemblyInfoInputs.cache
+C:\repos\StarCorp.Test\obj\Debug\netcoreapp2.2\StarCorp.Test.AssemblyInfo.cs
+C:\repos\StarCorp.Test\obj\Debug\netcoreapp2.2\StarCorp.Test.csproj.CopyComplete
+C:\repos\StarCorp.Test\obj\Debug\netcoreapp2.2\StarCorp.Test.dll
+C:\repos\StarCorp.Test\obj\Debug\netcoreapp2.2\StarCorp.Test.pdb

@@ -1,0 +1,9 @@
+C:\repos\StarCorp.Business\bin\Debug\netcoreapp2.2\StarCorp.Business.deps.json
+C:\repos\StarCorp.Business\bin\Debug\netcoreapp2.2\StarCorp.Business.dll
+C:\repos\StarCorp.Business\bin\Debug\netcoreapp2.2\StarCorp.Business.pdb
+C:\repos\StarCorp.Business\obj\Debug\netcoreapp2.2\StarCorp.Business.csprojAssemblyReference.cache
+C:\repos\StarCorp.Business\obj\Debug\netcoreapp2.2\StarCorp.Business.csproj.CoreCompileInputs.cache
+C:\repos\StarCorp.Business\obj\Debug\netcoreapp2.2\StarCorp.Business.AssemblyInfoInputs.cache
+C:\repos\StarCorp.Business\obj\Debug\netcoreapp2.2\StarCorp.Business.AssemblyInfo.cs
+C:\repos\StarCorp.Business\obj\Debug\netcoreapp2.2\StarCorp.Business.dll
+C:\repos\StarCorp.Business\obj\Debug\netcoreapp2.2\StarCorp.Business.pdb
